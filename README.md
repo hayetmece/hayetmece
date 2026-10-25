@@ -31,16 +31,6 @@ I also have experience in teaching computer science and ICT, which has strengthe
 
 ---
 
-## 📂 Featured Projects
-
-### 🔹 Algorithms Performance Analysis
-Comparing sorting and searching algorithms based on execution time, number of comparisons, and operation counts.
-
-**Technologies:** Python, Pandas, Matplotlib
-
-*Project repository coming soon.*
-
----
 
 ## 🌱 Currently Learning
 
